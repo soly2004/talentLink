@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319893999802",
+    "project_id": "talenklink",
+    "storage_bucket": "talenklink.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319893999802:android:77be207ccff35da8ef7283",
+        "android_client_info": {
+          "package_name": "com.example.talentlink_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4sjTdWFdmzBROsoztkD9QVHnO9uS7BsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
